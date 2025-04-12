@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikmehta31&label=Profile%20views&color=0e75b6&style=flat" alt="koushikmehta31" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-web-application-ruddy.vercel.app/](https://portfolio-web-application-ruddy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-web-application-ruddy.vercel.app/](https://personal-portfolio-beige-three-23.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
