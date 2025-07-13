@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koushik Mehta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikmehta31" alt="koushikmehta31" /></a> </p>
+- 👨‍💻 Portfolio Link [https://personal-portfolio-beige-three-23.vercel.app/](https://personal-portfolio-beige-three-23.vercel.app/)
 
 - 💬 Ask me about **Data Analysis & Frontend Development**
 
