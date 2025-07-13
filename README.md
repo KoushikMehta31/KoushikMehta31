@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik Mehta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 Portfolio Link [https://personal-portfolio-beige-three-23.vercel.app/](https://personal-portfolio-beige-three-23.vercel.app/)
-
-- 💬 Ask me about **Data Analysis & Frontend Development**
 
 - 📫 How to reach me **koushikmehta07@gmail.com**
 
